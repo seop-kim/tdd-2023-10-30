@@ -21,3 +21,6 @@ class CalcTest {
 - REFACTORING : 중복을 제거한다.
 
 
+
+### TDD
+TDD는 한단계 한단계 성을 쌓아가는 느낌으로 코딩을 하는 것이다.
